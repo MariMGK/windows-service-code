@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>butterfly.gif</ImageUrl>
+    <NavigateUrl>http://www.craftsman.com</NavigateUrl>
+    <AlternateText>
+      Need Machinery Items
+    </AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>6YJ7.gif</ImageUrl>
+    <NavigateUrl>http://www.craftsman.com</NavigateUrl>
+    <AlternateText>
+      Click here to visit Superexpert.com!
+    </AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+</Advertisements>
